@@ -1,0 +1,60 @@
+{
+    "Valid":
+    {
+        "Uname":"admin@gmail.com",
+        "Pass":"123456",
+        "Name":"free",
+        "Image1":"C:\\Users\\AB69817\\Downloads\\image.png"
+  
+    }, "Maxchar":
+    {
+        "Uname":"admin@gmail.com",
+        "Pass":"123456",
+        "Name":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "Image1":"C:\\Users\\AB69817\\Downloads\\image.png"
+  
+    },
+     "numbers":
+    {
+        "Uname":"admin@gmail.com",
+        "Pass":"123456",
+        "Name":"123123",
+        "Image1":"C:\\Users\\AB69817\\Downloads\\image.png"
+  
+    }
+    ,
+     "specialchar":
+    {
+        "Uname":"admin@gmail.com",
+        "Pass":"123456",
+        "Name":"@@@",
+        "Image1":"C:\\Users\\AB69817\\Downloads\\image.png"
+  
+    },
+     "blank":
+    {
+        "Uname":"admin@gmail.com",
+        "Pass":"123456",
+        "Name":" ",
+        "Image1":"C:\\Users\\AB69817\\Downloads\\image.png"
+  
+    },
+     "alphanumeric":
+    {
+        "Uname":"admin@gmail.com",
+        "Pass":"123456",
+        "Name":"free123123",
+        "Image1":"C:\\Users\\AB69817\\Downloads\\image.png"
+  
+    },
+     "blankimage":
+    {
+        "Uname":"admin@gmail.com",
+        "Pass":"123456",
+        "Name":"zensar",
+        "Image1":""
+  
+    }
+    
+    
+    }

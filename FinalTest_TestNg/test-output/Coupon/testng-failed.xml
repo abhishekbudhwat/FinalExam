@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Coupon]">
+  <test thread-count="5" name="Xlogist_TestCase(failed)">
+    <parameter name="url1" value="https://xlogist.pisystindia.com/mainhub/login"/>
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="TestCase.TestCase_Xlogist_Coupon">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="setup"/>
+          <include name="ValidData"/>
+        </methods>
+      </class> <!-- TestCase.TestCase_Xlogist_Coupon -->
+    </classes>
+  </test> <!-- Xlogist_TestCase(failed) -->
+</suite> <!-- Failed suite [Coupon] -->

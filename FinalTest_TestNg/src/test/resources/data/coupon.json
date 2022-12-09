@@ -1,0 +1,46 @@
+{
+    "Blank":
+    {
+        "Uname":"mainhub@gmail.com",
+        "Pass":"123456",
+        "Code":""
+        
+    },"Numbers":
+    {
+        "Uname":"mainhub@gmail.com",
+        "Pass":"123456",
+        "Code":"1122"
+        
+    },"alphabates":
+    {
+        "Uname":"mainhub@gmail.com",
+        "Pass":"123456",
+        "Code":"Fist_coupon"
+        
+    },"specialchar":
+    {
+        "Uname":"mainhub@gmail.com",
+        "Pass":"123456",
+        "Code":"@#"
+        
+    },"Alphanumeric":
+    {
+        "Uname":"mainhub@gmail.com",
+        "Pass":"123456",
+        "Code":"Coupon50"
+        
+    },"space":
+    {
+        "Uname":"mainhub@gmail.com",
+        "Pass":"123456",
+        "Code":" "
+        
+    }
+    ,"Max":
+    {
+        "Uname":"mainhub@gmail.com",
+        "Pass":"123456",
+        "Code":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+        
+    }
+}

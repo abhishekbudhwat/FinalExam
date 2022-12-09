@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Update category]">
+  <test thread-count="5" name="Ecommerce_TestCase(failed)">
+    <parameter name="browser" value="chrome"/>
+    <parameter name="url" value="https://products.pisystindia.com/Ecommerce/admin"/>
+    <classes>
+      <class name="TestCase.TestCase_Ecommerce">
+        <methods>
+          <include name="WithBlank"/>
+          <include name="beforeClass"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- TestCase.TestCase_Ecommerce -->
+    </classes>
+  </test> <!-- Ecommerce_TestCase(failed) -->
+</suite> <!-- Failed suite [Update category] -->
